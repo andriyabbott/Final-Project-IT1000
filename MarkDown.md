@@ -30,4 +30,4 @@ if x == 1:
 ##### Click the link below to find out more about MarkDown:
 [What is Markdown?](https://www.ultraedit.com/company/blog/community/what-is-markdown-why-use-it.html)
 
-Click [Here](https://github.com/andriyabbott/Final-Project-IT1000/edit/master/README.md) to return to README.md
+Click [Here](https://github.com/andriyabbott/Final-Project-IT1000/blob/master/README.md) to return to README.md
