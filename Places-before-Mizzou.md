@@ -9,5 +9,6 @@
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/250px-Flag_of_India.svg.png)
 >#### Life in India was fun. It really shifted my perspective on the scale of the world. According to [Wikipedia](https://en.wikipedia.org/wiki/India), It is the seventh-largest country by area, the second-most populous country, and the most populous democracy in the world.
 > Here's a [link](https://www.scoopwhoop.com/inothernews/interesting-india/) to a couple of things that I found India to be quite cool and unique
+---
 Go back to [README.md](https://github.com/andriyabbott/Final-Project-IT1000/blob/master/README.md)
   
