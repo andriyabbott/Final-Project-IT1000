@@ -15,5 +15,5 @@ I've travelled to a lot of places over the years since my family moves a lot. Al
 [Here](https://github.com/andriyabbott/Final-Project-IT1000/blob/master/Places-before-Mizzou.md) are some of the cooler places that I've actually lived in.
 ---
 # ***Not to brag, but I know a few languages***
-Since I've been places in my lifetime, and actually living in some of those places made me learn the language of the people around me. In addition to languages spoken around the world, I've learnt a lot about programming languages too! So far, i've learnt a bit of Python, HTML and Javasript. Also, I know a bit of Markdown too. You can take a look at why it's so cool over [here](https://github.com/andriyabbott/Final-Project-IT1000/blob/master/MarkDown.md)
+Since I've been places in my lifetime, and actually living in some of those places made me learn the language of the people around me. Find out what languages I know by going [here](https://github.com/andriyabbott/Final-Project-IT1000/blob/master/Languages-I-know.md). In addition to languages spoken around the world, I've learnt a lot about programming languages too! So far, i've learnt a bit of Python, HTML and Javasript. Also, I know a bit of Markdown too. You can take a look at why it's so cool over [here](https://github.com/andriyabbott/Final-Project-IT1000/blob/master/MarkDown.md)
 ---
