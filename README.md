@@ -5,6 +5,7 @@
 # ***MIZ-ZOU***
 ![](https://upload.wikimedia.org/wikipedia/commons/a/af/Jesse_Hall_and_Columns.jpg)
 >The University of Missouri has been my home for the last four months of my life and it has been nothing short of spectacular.
+>Prior to my senior year of high school, I wasn't sure what my major was going to be, and I did some brain storming to figure out what i enjoyed doing the most and [this](https://github.com/andriyabbott/Final-Project-IT1000/blob/master/reason-for-IT.md) was the reason I chose Information Technology over all others.
 >I've had the opportunity to be in a few clubs, one of them being the [MU VR Club](https://missouri.campuslabs.com/engage/organization/university-of-missouri-virtual-reality)
 ---
 # ***I've been places too!***
